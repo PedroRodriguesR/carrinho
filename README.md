@@ -1,4 +1,16 @@
-# React + TypeScript + Vite
+# Projeto de carrinho de compras 
+
+Este projeto tem o objetivo de apresentar as funcionalidades de lista de produtos consumindo uma API (Para a API foi usado o json-server subindo o arquivo db.json, neste arquivo contém a lista de produtos usados). Também é realizada a funcionalidade de manipulação do carrinho de compras.
+
+As ferramentas usadas foram: React + TypeScript + Vite + Json-server + Tailwindcss + React-icons. 
+
+O objetivo do projeto foi aprender mais sobre as ferramentas citadas acima.
+
+#Instalação
+
+Para instalar, basta seguir o padrão do Vite. Depois de clonado o repositório, no terminal digitar "npm i" para instalar as dependências, em seguida "npm run dev". A aplicação irá subir localhost na porta mencionada.
+
+# Arquivo padrão abaixo
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
