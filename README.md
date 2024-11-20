@@ -6,9 +6,9 @@ As ferramentas usadas foram: React + TypeScript + Vite + Json-server + Tailwindc
 
 O objetivo do projeto foi aprender mais sobre as ferramentas citadas acima.
 
-#Instalação
+# Instalação
 
-Para instalar, basta seguir o padrão do Vite. Depois de clonado o repositório, no terminal digitar "npm i" para instalar as dependências, em seguida "npm run dev". A aplicação irá subir localhost na porta mencionada.
+Para instalar, basta seguir o padrão do Vite. Depois de clonado o repositório, no terminal digitar "npm i" para instalar as dependências, em seguida "npm run dev". A aplicação irá subir localhost na porta mencionada. Depois subir o json-server com o arquivo db.json.
 
 # Arquivo padrão abaixo
 
