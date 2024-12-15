@@ -6,11 +6,20 @@ As ferramentas usadas foram: React + TypeScript + Vite + Json-server + Tailwindc
 
 O objetivo do projeto foi aprender mais sobre as ferramentas citadas acima.
 
+# Site sendo executado
+
+
+
+
+https://github.com/user-attachments/assets/304c3236-f68e-4417-a018-3ec7164555ad
+
+
+
 # Instalação
 
 Para instalar, basta seguir o padrão do Vite. Depois de clonado o repositório, no terminal digitar "npm i" para instalar as dependências, em seguida "npm run dev". A aplicação irá subir localhost na porta mencionada. Depois subir o json-server com o arquivo db.json.
 
-# Arquivo padrão abaixo
+# Arquivo padrão abaixo (ignorar)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
