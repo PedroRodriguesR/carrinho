@@ -11,7 +11,11 @@ O objetivo do projeto foi aprender mais sobre as ferramentas citadas acima.
 
 
 
-https://github.com/user-attachments/assets/304c3236-f68e-4417-a018-3ec7164555ad
+
+
+
+https://github.com/user-attachments/assets/97fbf7f8-9904-43b7-b43a-8c7e8b064d80
+
 
 
 
