@@ -50,7 +50,7 @@ function CartProvider({ children }: CartProviderProps){
       total: newItem.price
     }
 
-
+    
     setCart(products => [...products, data])
     totalResultCart([...cart, data])
 
